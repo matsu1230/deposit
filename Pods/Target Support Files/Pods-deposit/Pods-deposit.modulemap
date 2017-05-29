@@ -1,0 +1,6 @@
+framework module Pods_deposit {
+  umbrella header "Pods-deposit-umbrella.h"
+
+  export *
+  module * { export * }
+}
